@@ -1,4 +1,4 @@
-This is the clone of https://github.com/Snawoot/shadowsocks-heroku. You shold clone repository and change its name since heroku may refuse to deploy shadowsocks-heroku. 
+This is  a clone of https://github.com/Snawoot/shadowsocks-heroku. You should clone repository and change its name since heroku may refuse to deploy shadowsocks-heroku. 
 
 
 # Personal VPN
